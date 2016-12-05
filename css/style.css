@@ -1,0 +1,35 @@
+* {
+	margin: 0 auto;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+hr {
+	border: 0;
+	height: 12px;
+	box-shadow: inset 0 12px 12px -12px rgba(0,0,0,0.5);
+}
+
+td {
+	valign: middle;
+}
+
+.td-wd {
+	width: 10%;
+}
+
+.img-sz-res {
+	max-width: 5%;
+}
+
+.img-sz-poster {
+	width: 100%;
+}
+
+.img-sz-cast {
+	width: 50%;
+}
