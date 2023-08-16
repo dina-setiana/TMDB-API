@@ -1,6 +1,6 @@
 <?php
 
-$key = 'b02cc9599b562a85e12cabc7814de340';
+$key = ''; // todo use env
 
 
 function getSearchResult($key, $title, $page, $year, $adult)
